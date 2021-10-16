@@ -5,7 +5,7 @@ This is Varun Tiwari, a Pre-final Year Undergraduate Student @IIIT-Allahabad.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VarunT11&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
