@@ -30,4 +30,4 @@ Welcome to my GitHub profile. I'm a Software Engineer with a passion for buildin
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-VarunT11-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/iamvt11/)
-[![Email](https://img.shields.io/badge/Email-your.email@example.com-red?style=flat-square&logo=gmail)](mailto:varun.2011t@gmail.com)
+[![Email](https://img.shields.io/badge/Email-varun.2011t@gmail.com-red?style=flat-square&logo=gmail)](mailto:varun.2011t@gmail.com)
